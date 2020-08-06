@@ -47,6 +47,9 @@ svn co https://github.com/project-openwrt/openwrt/branches/master/package/lean/l
 svn co https://github.com/project-openwrt/openwrt/branches/master/package/lean/vsftpd-alt lean/vsftpd-alt
 # luci-app-netdata
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-netdata lean/luci-app-netdata
+# ddns-scripts
+svn co https://github.com/project-openwrt/openwrt/branches/master/package/lean/ddns-scripts_aliyun lean/ddns-scripts_aliyun
+svn co https://github.com/project-openwrt/openwrt/branches/master/package/lean/ddns-scripts_dnspod lean/ddns-scripts_dnspod
 popd
 
 # zh_cn to zh_Hans
