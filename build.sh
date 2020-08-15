@@ -68,4 +68,3 @@ sha256sum -b $(ls -l | grep ^- | awk '{print $NF}' | grep -v sha256sums) >sha256
 tar zcf $archive_tag.tar.gz $(ls -l | grep ^- | awk '{print $NF}')
 popd
 mv openwrt/bin/targets/*/*/$archive_tag.tar.gz .
-
