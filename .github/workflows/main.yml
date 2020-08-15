@@ -52,3 +52,4 @@ jobs:
         with:
           name: OpenWrt
           path: OpenWrt_*_NanoPi-R2S.tar.gz
+
