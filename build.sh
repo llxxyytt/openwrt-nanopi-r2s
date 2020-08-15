@@ -19,7 +19,7 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/pdnsd-alt lean/pd
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/microsocks lean/microsocks
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/dns2socks lean/dns2socks
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/simple-obfs lean/simple-obfs
-svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/tcpping lean/tcpping
+svn co https://github.com/fw876/helloworld/trunk/tcping lean/tcpping
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/v2ray-plugin lean/v2ray-plugin
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/v2ray lean/v2ray
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/trojan lean/trojan
